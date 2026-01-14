@@ -1,0 +1,20 @@
+# Eclipse / IDE Files (Ise upload nahi karna chahiye)
+.metadata/
+.recommenders/
+.classpath
+.project
+.settings/
+bin/
+
+# Java Build Files
+target/
+*.class
+
+# React Dependencies (Bahut bhaari hoti hain)
+node_modules/
+build/
+.env
+
+# OS Files
+Thumbs.db
+.DS_Store
