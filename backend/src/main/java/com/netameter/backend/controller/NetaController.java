@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://neta-meter-backend-api.onrender.com")
 public class NetaController {
 
     @Autowired // Repository ko inject kiya
